@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*;`
 public class InputOutput{
     public void printNumber(Scanner sc){
         int a = sc.nextInt();
